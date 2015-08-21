@@ -1,0 +1,27 @@
+{
+  "name": "koa-listen",
+  "version": "1.0.0",
+  "description": "Serve exported koa application",
+  "bin": {
+    "koa-listen": "bin.js"
+  },
+  "author": "Tim Hudson <tim.hudson15@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^0.21.0",
+    "minimist": "^1.1.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timhudson/koa-listen.git"
+  },
+  "keywords": [
+    "koa",
+    "server",
+    "cli"
+  ],
+  "bugs": {
+    "url": "https://github.com/timhudson/koa-listen/issues"
+  },
+  "homepage": "https://github.com/timhudson/koa-listen#readme"
+}
