@@ -1,6 +1,6 @@
 {
   "name": "koa-listen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Serve exported koa application",
   "bin": {
     "koa-listen": "bin.js"
