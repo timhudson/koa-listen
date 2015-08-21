@@ -2,6 +2,20 @@
 
 Serve exported koa application
 
+## Example
+
+``` js
+// index.js
+var koa = require('koa')
+var app = koa()
+
+module.exports = app
+```
+
+``` bash
+$ koa-listen index.js -p 1515
+```
+
 ## Usage
 
 ```
